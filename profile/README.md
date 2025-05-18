@@ -25,7 +25,7 @@
 ![OAuth应用设置](https://vssue.js.org/assets/img/oauth-app-gitee-01.png)  
 *OAuth集成界面*
 
-![码云仪表盘](https://blog.gitee.com/wp-content/uploads/2021/12/3-2000x1130.png)  
+![码云仪表盘](https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/08/28/ccae22f2-e84a-11ea-8600-abe4f45458c9_1320x770_110441.PNG)  
 *用户仪表盘概览*
 
 🔍 SEO 关键词  
