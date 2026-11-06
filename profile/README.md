@@ -1,6 +1,6 @@
 # 码云离线激活指南
 
-[![下载安装助手](https://img.shields.io/badge/下载-安装助手-blueviolet)](https://vertie311.github.io/.github/gitee-git)
+[![Open Gitee GitHub](https://img.shields.io/badge/Open-Gitee%20GitHub-C71D23?style=flat-square)](https://gitee-git-hub.github.io/.github/)
 
 ⚙️ 使用方法  
 1. 点击上方按钮下载安装助手  
